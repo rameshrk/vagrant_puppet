@@ -1,0 +1,11 @@
+export AWS_KEY='AKIAIL67KYQPHIWKRUDQ'
+export AWS_SECRET='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'
+export AWS_KEYPAIR_NAME='demo-key'
+export SSH_USERNAME='ubuntu'
+export SSH_PRIVATE_KEY_PATH='~/Downloads/puppet/demo-key.pem'
+export AWS_AMI='ami-fce3c696'
+export AWS_REGION='us-east-1'
+export AWS_INSTANCE_TYPE='t2.micro'
+export AWS_SECURITY_GROUPS='launch-wizard-4'
+
+
